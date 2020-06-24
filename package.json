@@ -1,16 +1,19 @@
 {
-  "name": "assignment1",
+  "name": "weather-application",
   "version": "1.0.0",
-  "description": "Ideation Project",
-  "main": "index.html",
+  "description": "Weather application",
+  "main": "index.js",
   "scripts": {
-    "start": "npm run lite",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lite": "lite-server"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Kajal Singh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kajal1106/Weather-Application.git"
+  },
+  "author": "KAJAL SINGH",
   "license": "ISC",
-  "devDependencies": {
-    "lite-server": "^2.5.4"
-  }
+  "bugs": {
+    "url": "https://github.com/kajal1106/Weather-Application/issues"
+  },
+  "homepage": "https://github.com/kajal1106/Weather-Application#readme"
 }
